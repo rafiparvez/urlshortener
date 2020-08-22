@@ -1,4 +1,4 @@
-.PHONY: build rebuild migrate run
+.PHONY: build rebuild run migrate createenv  
 
 build:
 	docker-compose build
