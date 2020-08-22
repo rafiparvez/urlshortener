@@ -1,6 +1,9 @@
 # UrlShortener
 A service to shorten urls
 
+## TL;DR
+The service spins up a docker containers running django GraphQL Api backed by Postgres DB engine. The cli app makes calls the api and returns response.
+
 ## Installation
 
 ### Step 1: Install Docker and Docker Compose
